@@ -1,4 +1,4 @@
-# ⚽ Automated FPL Data Pipeline
+# Automated Fantasy Premier League Data Pipeline
 
 This project establishes a complete, end-to-end data pipeline to automatically **collect**, **clean**, and **consolidate** Fantasy Premier League (FPL) data and Premier League standings.  
 The final output is stored in **Google Sheets**, ready to be consumed by a **live Tableau Public dashboard**.
@@ -21,7 +21,7 @@ The entire pipeline is orchestrated by **GitHub Actions** and runs **daily** to 
 
 ---
 
-## ⚙️ Data Flow
+## Data Flow
 
 The data is standardized into **five distinct sheets**, providing a robust relational structure for Tableau:
 
@@ -33,7 +33,7 @@ The data is standardized into **five distinct sheets**, providing a robust relat
 
 ---
 
-## 💻 Setup and Installation
+## Setup and Installation
 
 ### **Prerequisites**
 
